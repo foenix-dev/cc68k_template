@@ -1,0 +1,3 @@
+[submodule "{{cookiecutter.repo_name}}/module/Calypsi-m68k-Foenix"]
+	path = {{cookiecutter.repo_name}}/module/Calypsi-m68k-Foenix
+	url = https://github.com/hth313/Calypsi-m68k-Foenix.git
