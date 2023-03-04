@@ -1,0 +1,12 @@
+{
+  "full_name": "John Doe",
+  "email": "johnd@acme.com",
+  "repo_name": "hello_world",
+  "executable": "hello",
+  "code_size":["large", "small"],
+  "data_size":["large", "small"],
+  "project_short_description": "Refreshingly simple hello world for A2560.",
+  "version": "0.0.1",
+  "license":["MIT License","Apache License 2.0","Mozilla Public License 2.0","Boost Software License 1.0","GNU Lesser General Public License v3.0","GNU General Public License v3.0","GNU Affero General Public License v3.0","The Unlicense"],
+  "license_year": "2023"
+}
