@@ -11,5 +11,3 @@
 ## Usage
 - Run `cookiecutter gh:foenix-dev/cc68k_template`
 - Fill out template
-- Change into repo directory
-- Run `git init && git submodule update --init --recursive`
